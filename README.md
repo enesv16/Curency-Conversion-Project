@@ -1,0 +1,1 @@
+I developed a mobile application in this project that calculates currency conversion. I used Firebase for user authentication, and I also utilized Firebase Push Notifications to handle currency notification events.
